@@ -1,0 +1,4 @@
+GitExerciseInClass
+==================
+
+Þetta er repoið
